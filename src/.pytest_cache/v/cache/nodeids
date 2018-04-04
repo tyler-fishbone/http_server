@@ -1,0 +1,7 @@
+[
+  "test_cowpy.py::test_server_sends_200_response",
+  "test_cowpy.py::test_server_sends_404_response",
+  "test_cowpy.py::test_server_sends_qs_back",
+  "test_cowpy.py::test_server_looks_for_moose",
+  "test_cowpy.py::test_server_post_req"
+]
