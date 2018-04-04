@@ -1,0 +1,5 @@
+#!/Users/tyler/codefellows/401/http-server/src/ENV/bin/python3
+# encoding: utf-8
+
+from cowpy import cow
+cow.main()
